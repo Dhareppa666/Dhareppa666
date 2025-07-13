@@ -41,6 +41,7 @@ public class Dhareppa {
         System.out.println("Transforming complex problems into elegant solutions...");
     }
 }
+```
 
 // When I'm not coding, I enjoy:
 const hobbies = ["🚴‍♂️ Cycling", "📚 Reading", "✈️ Traveling", "🎮 Gaming"];
