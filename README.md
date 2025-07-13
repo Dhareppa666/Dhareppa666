@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <!-- Tabs for different sections -->
-<summary><b>📌 About Me</b></summary>
+
 <br/>
 
 ```java
