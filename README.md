@@ -42,7 +42,11 @@ public class Dhareppa {
         System.out.println("Transforming complex problems into elegant solutions...");
     }
 }
-</details>
+
+// When I'm not coding, I enjoy:
+const hobbies = ["🚴‍♂️ Cycling", "📚 Reading", "✈️ Traveling", "🎮 Gaming"];
+hobbies.forEach(hobby => console.log(hobby));
+
 # 👋 Hi, I'm Dhareppa
 
 ## 💼 Software Engineer 3 @ Walmart | Full Stack Developer
