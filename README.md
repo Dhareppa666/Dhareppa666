@@ -42,7 +42,7 @@ public class Dhareppa {
         System.out.println("Transforming complex problems into elegant solutions...");
     }
 }
-
+</details>
 # 👋 Hi, I'm Dhareppa
 
 ## 💼 Software Engineer 3 @ Walmart | Full Stack Developer
