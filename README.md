@@ -27,9 +27,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<!-- Tabs for different sections -->
+## 🚀 About Me
 
-<br/>
+I'm a passionate **Software Engineer 3** at **Walmart**, specializing in building scalable and efficient full-stack applications. With expertise in **Java, Spring Boot, React, and Node.js**, I love transforming complex problems into elegant solutions.
 
 ```java
 public class Dhareppa {
@@ -42,22 +42,6 @@ public class Dhareppa {
     }
 }
 ```
-
-// When I'm not coding, I enjoy:
-const hobbies = ["🚴‍♂️ Cycling", "📚 Reading", "✈️ Traveling", "🎮 Gaming"];
-hobbies.forEach(hobby => console.log(hobby));
-
-# 👋 Hi, I'm Dhareppa
-
-## 💼 Software Engineer 3 @ Walmart | Full Stack Developer
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhareppa-sasalatti-01739811a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge)](https://linktr.ee/dhareppa666)
-[![Contact](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail)](mailto:Dhareppa.ms666@gmail.com)
-
-## 🚀 About Me
-
-I'm a passionate **Software Engineer 3** at **Walmart**, specializing in building scalable and efficient full-stack applications. With expertise in **Java, Spring Boot, React, and Node.js**, I love transforming complex problems into elegant solutions.
 
 ## 🛠️ Technologies & Tools
 
