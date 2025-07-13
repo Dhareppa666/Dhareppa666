@@ -3,6 +3,46 @@ Dhareppa666/Dhareppa666 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- Header with animated gradient text and wave emoji -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
+  <span style="background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 8s ease infinite; background-size: 200% 200%;">Dhareppa Sasalatti</span>
+</h1>
+
+<h3 align="center">💻 Software Engineer 3 @ Walmart | 🚀 Full Stack Developer | ☁️ Cloud Enthusiast</h3>
+
+<!-- Social Badges with Hover Effects -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhareppa-sasalatti-01739811a/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=black" alt="LinkedIn" />
+  </a>
+  <a href="https://linktr.ee/dhareppa666">
+    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=link&logoColor=white&labelColor=4CAF50&color=black" alt="Portfolio" />
+  </a>
+  <a href="mailto:Dhareppa.ms666@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=black" alt="Email" />
+  </a>
+  <a href="https://github.com/Dhareppa666">
+    <img src="https://komarev.com/ghpvc/?username=Dhareppa666&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  </a>
+</div>
+
+<!-- Tabs for different sections -->
+<details>
+<summary><b>📌 About Me</b></summary>
+<br/>
+
+```java
+public class Dhareppa {
+    public static void main(String[] args) {
+        String role = "Software Engineer 3 @ Walmart";
+        String[] skills = {"Java", "Spring Boot", "React", "Node.js", "Microservices"};
+        String[] interests = {"System Design", "Cloud Architecture", "Open Source"};
+        
+        System.out.println("Transforming complex problems into elegant solutions...");
+    }
+}
+
 # 👋 Hi, I'm Dhareppa
 
 ## 💼 Software Engineer 3 @ Walmart | Full Stack Developer
