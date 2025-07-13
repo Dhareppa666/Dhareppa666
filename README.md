@@ -36,7 +36,7 @@ public class Dhareppa {
     public static void main(String[] args) {
         String role = "Software Engineer 3 @ Walmart";
         String[] skills = {"Java", "Spring Boot", "React", "Node.js", "Microservices"};
-        String[] interests = {"DSA <3", "System Design", "Kaam se kaam rakhna"};
+        String[] interests = {"DSA", "System Design", "Kaam se kaam rakhna"};
         
         System.out.println("Transforming complex problems into elegant solutions...");
     }
