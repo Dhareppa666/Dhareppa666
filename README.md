@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Header with animated gradient text and wave emoji -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
-  <span style="background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 8s ease infinite; background-size: 200% 200%;">Dhareppa Sasalatti</span>
+  <span style="background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 8s ease infinite; background-size: 200% 200%;">Dhareppa M S</span>
 </h1>
 
 <h3 align="center">💻 Software Engineer 3 @ Walmart | 🚀 Full Stack Engineer | ☁️ System Design Enthusiast</h3>
