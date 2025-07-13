@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Dhareppa
-- 👀 I’m a Full Stack Engineer and Love to build products in Java, Spring Boot, React and Node Js.
-- 🌱 I’m currently working with React And Java with Keen interest on System Design.
-- 📫 Reach out to me @https://linktr.ee/Dhareppa666
-
 <!---
 Dhareppa666/Dhareppa666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 
-I'm a passionate **Senior Software Engineer** at **Walmart**, specializing in building scalable and efficient full-stack applications. With expertise in **Java, Spring Boot, React, and Node.js**, I love transforming complex problems into elegant solutions.
+I'm a passionate **Software Engineer 3** at **Walmart**, specializing in building scalable and efficient full-stack applications. With expertise in **Java, Spring Boot, React, and Node.js**, I love transforming complex problems into elegant solutions.
 
 ## 🛠️ Technologies & Tools
 
@@ -34,19 +29,17 @@ I'm a passionate **Senior Software Engineer** at **Walmart**, specializing in bu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-0089D6?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🔭 I'm Currently Working On
 
 - Building scalable microservices at Walmart
 - Exploring advanced system design patterns
-- Contributing to open source projects
 
 ## 🌱 I'm Currently Learning
 
@@ -68,10 +61,9 @@ I believe in clean, maintainable code and following best practices to build robu
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
-- 📝 [Blog/Portfolio](https://your-blog-or-portfolio.com)
-- ✉️ [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhareppa-sasalatti-01739811a/)
+- 📝 [Blog/Portfolio](https://linktr.ee/dhareppa666)
+- ✉️ [Email](mailto:Dhareppa.ms666@gmail.com)
 
 ## 🤝 Open to
 
