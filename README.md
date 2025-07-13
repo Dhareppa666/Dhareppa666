@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
   <span style="background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 8s ease infinite; background-size: 200% 200%;">Dhareppa Sasalatti</span>
 </h1>
 
-<h3 align="center">💻 Software Engineer 3 @ Walmart | 🚀 Full Stack Developer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">💻 Software Engineer 3 @ Walmart | 🚀 Full Stack Engineer | ☁️ System Design Enthusiast</h3>
 
 <!-- Social Badges with Hover Effects -->
 <div align="center">
@@ -36,7 +36,7 @@ public class Dhareppa {
     public static void main(String[] args) {
         String role = "Software Engineer 3 @ Walmart";
         String[] skills = {"Java", "Spring Boot", "React", "Node.js", "Microservices"};
-        String[] interests = {"System Design", "Cloud Architecture", "Open Source"};
+        String[] interests = {"DSA <3", "System Design", "Kaam se kaam rakhna"};
         
         System.out.println("Transforming complex problems into elegant solutions...");
     }
