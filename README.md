@@ -7,10 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 💼 Software Engineer 3 @ Walmart | Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge)](https://your-portfolio.com)
-[![Contact](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhareppa-sasalatti-01739811a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge)](https://linktr.ee/dhareppa666)
+[![Contact](https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail)](mailto:Dhareppa.ms666@gmail.com)
 
 ## 🚀 About Me
 
