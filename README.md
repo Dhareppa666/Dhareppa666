@@ -65,14 +65,12 @@ public class Dhareppa {
 
 ## 🔭 I'm Currently Working On
 
-- Building scalable microservices at Walmart
-- Exploring advanced system design patterns
+- Building scalable microservices.
 
 ## 🌱 I'm Currently Learning
 
 - Advanced Distributed Systems
 - Cloud-Native Architectures
-- Performance Optimization Techniques
 
 ## 💡 My Development Philosophy
 
